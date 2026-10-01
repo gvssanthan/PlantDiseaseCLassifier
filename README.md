@@ -1,1 +1,1 @@
-# PlantDiseaseCLassifier
+# StudyPlannerAI
